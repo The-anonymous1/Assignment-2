@@ -1,0 +1,41 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px;
+    line-height: 1.8;
+}
+h1 {
+    font-family: 'Rampart One', sans-serif;
+    font-size: 130px;
+    color: black;
+    position: absolute;
+    top: -140px;
+    left: 540px;
+}
+p1 {
+    font-family: 'Sail', sans-serif;
+    font-size: 50px;
+    color: black;
+    position: absolute;
+    top: 140px;
+    left: 650px;
+}
+.lyrics{
+    position: absolute;
+    top: 280px;
+    color: white;
+    font-size: 30px;
+}
+.verse-1, .verse-2, .verse-3{
+    font-family: 'Yeseva One', sans-serif;
+}
+.pre-chorus{
+    font-family: 'Changa One', sans-serif;
+}
+.chorus{
+    font-family: 'Bungee Inline', sans-serif;
+}
